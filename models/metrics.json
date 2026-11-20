@@ -1,0 +1,27 @@
+{
+  "model_type": "logistic_regression",
+  "mlflow_run_id": "3c4fcb26f74c4833a6f7630b2c5985da",
+  "model_version": 1,
+  "features": [
+    "age",
+    "trestbps",
+    "chol",
+    "thalach",
+    "oldpeak",
+    "ca",
+    "sex",
+    "cp",
+    "fbs",
+    "restecg",
+    "exang",
+    "slope",
+    "thal"
+  ],
+  "metrics": {
+    "accuracy": 0.8688524590163934,
+    "precision": 0.8125,
+    "recall": 0.9285714285714286,
+    "f1": 0.8666666666666667,
+    "roc_auc": 0.9577922077922079
+  }
+}
