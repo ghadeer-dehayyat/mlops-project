@@ -4,3 +4,4 @@ pandas
 pydantic
 pytest
 httpx
+scikit-learn
